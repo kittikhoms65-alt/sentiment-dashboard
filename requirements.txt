@@ -3,5 +3,3 @@ transformers
 torch
 pandas
 matplotlib
-sentencepiece
-safetensors
